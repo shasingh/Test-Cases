@@ -1,0 +1,12 @@
+Test cases for following website: https://jupiter.cloud.planittesting.com/#/
+
+1-- All mandatory fields should have validation
+2-- Navigation to pages is as expected
+3-- Cart displays correct number of items
+4-- Cart displays correct total amount of currency
+5-- Prices of items are displayed as per database
+6-- Login page should display error message for blank fields
+7-- Confirmation page is displayed after sending feedback
+8-- Cart can be emptied by removing all items at once
+9-- Individual items can be removed and total amount is adjusted
+10-- Check input fields for invalid characters
